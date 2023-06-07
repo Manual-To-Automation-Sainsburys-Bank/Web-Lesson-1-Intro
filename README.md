@@ -9,6 +9,15 @@ This repository contains a simple Selenium based test that performs a search on 
 
 It is designed as a very entry level idea of how to interact with a website using Automation.
 
+## Necessary Tools
+
+There are a few things that you will need before you can get started.
+
+* NodeJS - use [this](https://nodejs.org/en/download) guide for both Windows and Mac. 
+* Git for pulling down the code - follow [this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) guide for installing Git on all platforms. There are other useful guides on the website mentioned previously. Start [here](https://github.com/git-guides) anad follow through to the various links to learn more about Git. It will be very useful on your automation journey. If you have any issues with tokens or user credentials, let me know as this can trip a lot of people up.
+* Visual Studio Code - You can download it [here](https://code.visualstudio.com/download). This is the best free tool for writing JS code at the moment and the one that will be used for demos during the lessons.
+* ChromeDriver - this is the web driver that will be used to open Chrome and do the test locally. You can download it from [here](https://chromedriver.chromium.org/downloads). Remember to grab the version that matches your installed browser. Other webdrivers are available also. You can get Firefox [here](https://github.com/mozilla/geckodriver/releases), Edge driver [here](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/), and Safari driver [here](https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari).
+
 ## How To Run
 
 Follow the below steps to run the script on your machine:
