@@ -18,7 +18,7 @@ There are a few things that you will need before you can get started.
 * Visual Studio Code - You can download it [here](https://code.visualstudio.com/download). This is the best free tool for writing JS code at the moment and the one that will be used for demos during the lessons.
 * ChromeDriver - this is the web driver that will be used to open Chrome and do the test locally. You can download it from [here](https://chromedriver.chromium.org/downloads). Remember to grab the version that matches your installed browser. Other webdrivers are available also. You can get Firefox [here](https://github.com/mozilla/geckodriver/releases), Edge driver [here](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/), and Safari driver [here](https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari).
 
-## How To Run
+##  How To Run
 
 Follow the below steps to run the script on your machine:
 
